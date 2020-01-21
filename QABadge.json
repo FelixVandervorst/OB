@@ -1,0 +1,7 @@
+{
+	"name": "IABE Qualified Actuary",
+	"description": "Description of IABE QA",
+	"image": "https://github.com/FelixVandervorst/OB/blob/master/iabelogo.png",
+	"criteria": "https://iabe.be/about-iabe/iabe-qualified-members.html",
+	"issuer": "https://github.com/FelixVandervorst/OB/blob/master/IABEQA.json"
+}
